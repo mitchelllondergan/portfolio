@@ -1,6 +1,6 @@
 layout: page
 title: "Cyclistic Analysis"
-/portfolio/cyclistic
+permalink: /portfolio/cyclistic
 
 <!DOCTYPE html>
 
